@@ -14,13 +14,6 @@ Click the thumbnail below to watch the system in action:
 
 ---
 
-## 🖼️ Screenshot
-
-Here’s a glimpse of the simulation:
-
-![Simulation Screenshot](Screenshot%202025-05-28%20224633.png)
-
-> Ensure the image is stored inside the `screenshots/` folder in your project directory.
 
 ---
 
