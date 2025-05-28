@@ -8,7 +8,7 @@ A graphical desktop simulation created using Python’s `turtle`, `tkinter`, and
 
 Click the thumbnail below to watch the system in action:
 
-[![Watch Demo](Screenshot 2025-05-28 224633.png)](https://drive.google.com/file/d/1is38YtbzJasvvGFLT9VpASEQBwY7ypFD/view?usp=sharing)
+[![Watch Demo](Screenshot%202025-05-28%20224633.png)](https://drive.google.com/file/d/1is38YtbzJasvvGFLT9VpASEQBwY7ypFD/view?usp=sharing)
 
 
 
@@ -18,7 +18,7 @@ Click the thumbnail below to watch the system in action:
 
 Here’s a glimpse of the simulation:
 
-![Simulation Screenshot](screenshots/simulation.png)
+![Simulation Screenshot](Screenshot%202025-05-28%20224633.png)
 
 > Ensure the image is stored inside the `screenshots/` folder in your project directory.
 
