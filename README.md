@@ -8,7 +8,7 @@ A graphical desktop simulation created using Python’s `turtle`, `tkinter`, and
 
 Click the thumbnail below to watch the system in action:
 
-[![Watch Demo](screenshots/demo-thumbnail.png)](https://your-video-link.com)
+[![Watch Demo](Screenshot2025-05-28224633.png)](https://your-video-link.com)
 
 
 
